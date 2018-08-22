@@ -1,0 +1,38 @@
+body{
+    background: white url("images/ivory.jpg");
+}
+.navbar{
+    border-radius:0;
+    border-color: #cca1c0;
+}
+.navbar-brand{
+    font-family:'Satisfy',cursive;
+    font-size: 40px;
+    color: crimson;
+    text-shadow: 2px 1px lightseagreen;
+
+}
+.navbar-brand{
+    background-color: #00ffff;
+}
+.navbar-contact{
+    background-color: #00ffff;
+    font-size:17px;
+
+    text-shadow: 2px 1px black;
+    font-weight: bold;
+}
+.navbar-help{
+    background-color: #00ffff;
+    text-shadow: 2px 1px black;
+    font-size:17px;
+    font-weight: bold;
+}
+.btn-default{
+    background-color: #00ffff;
+    font-weight: bold;
+}
+.navbar-custom {
+
+    background-color: #00ffff;
+}
